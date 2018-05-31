@@ -4,7 +4,9 @@ import './Header.css'
 
 const Header = () => (
   <div className='Header'>
-    Header
+    <h1>
+      City Park Tennis Scorekeeper
+    </h1>
     <NavLink to='/'>Home</NavLink>
     <NavLink to='/'>Home</NavLink>
     <NavLink to='/'>Home</NavLink>
