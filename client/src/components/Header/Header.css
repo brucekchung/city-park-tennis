@@ -1,18 +1,19 @@
 .Header {
-  height: 100px;
+  height: 130px;
   color: white;
   background: #EC644B;
-  position: absolute;
   width: 100%;
+  padding-top: 15px;
 }
 
 .Header h1 {
-  margin: 20px auto;
+  margin: 0 auto;
 }
 
 .Header a {
   text-decoration: none;
-  margin: 10px;
+  margin: 20px;
+  display: inline-block;
 }
 
 
