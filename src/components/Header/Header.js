@@ -8,8 +8,7 @@ const Header = () => (
       City Park Tennis Scorekeeper
     </h1>
     <NavLink to='/'>Home</NavLink>
-    <NavLink to='/'>Home</NavLink>
-    <NavLink to='/'>Home</NavLink>
+    <NavLink to='/Players'>Players</NavLink>
   </div>
 )
 

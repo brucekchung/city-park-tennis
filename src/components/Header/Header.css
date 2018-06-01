@@ -2,10 +2,17 @@
   height: 100px;
   color: white;
   background: #EC644B;
+  position: absolute;
+  width: 100%;
 }
 
 .Header h1 {
-  margin: 0 auto;
+  margin: 20px auto;
+}
+
+.Header a {
+  text-decoration: none;
+  margin: 10px;
 }
 
 
